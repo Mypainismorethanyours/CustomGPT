@@ -7,7 +7,7 @@ npm run dev
 After starting, visit `http://localhost:3000/`
 
 ## Demo
-![]https://github.com/Mypainismorethanyours/CustomGPT/blob/main/Demo/Demo2.png
+![A]https://github.com/Mypainismorethanyours/CustomGPT/blob/main/Demo/Demo2.png
 
 
 # Cloudflare worker
