@@ -1,6 +1,6 @@
 # #
 ## Overview
-A GPT-like website which allows users to customize roles.
+A ChatGPT-like website which allows users to customize roles.
 
 ## Run
 ```shell
